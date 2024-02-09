@@ -35,6 +35,8 @@ Navegue até a pasta onde clonou o projeto e execute os seguintes comandos no te
 ## 📽️ Demonstração
 
 
+https://github.com/ArthurFakhouri/nlw-experts-react/assets/71707151/6f3c3ea7-99d8-42b1-8a64-bb496f1fb783
+
 
 ## 🚀 Tecnologias
 
